@@ -1,0 +1,14 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:804:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:833:22:LL_GPIO_ResetOutputPin	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:447:22:LL_APB1_GRP1_EnableClock	24	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:763:22:LL_APB2_GRP1_EnableClock	24	static
+../Core/Src/main.c:86:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:104:5:main	64	static
+../Core/Src/main.c:215:6:SystemClock_Config	72	static
+../Core/Src/main.c:252:13:MX_I2C1_Init	32	static
+../Core/Src/main.c:311:13:MX_TIM1_Init	80	static
+../Core/Src/main.c:376:13:MX_TIM2_Init	56	static
+../Core/Src/main.c:425:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:480:7:dtostrf	240	static
+../Core/Src/main.c:559:6:updatePWM_DutyCycle	48	static
+../Core/Src/main.c:588:6:Error_Handler	4	static,ignoring_inline_asm
